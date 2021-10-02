@@ -3,6 +3,7 @@ public class Lab5_ex1_3 {
 
         String str = "abcdefghijklmnopqrstuvwxyz";
 
+
         int a = str.indexOf("a", 0);
         int b = str.indexOf("b", 0);
         int c = str.indexOf("c", 0);

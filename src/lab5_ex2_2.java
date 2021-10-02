@@ -1,4 +1,4 @@
-public class lab5_ex2_2 {
+public class Lab5_ex2_2 {
     public static void main(String[] arr) {
         Time start = new Time();
         start.setTime(15, 13, 46);
